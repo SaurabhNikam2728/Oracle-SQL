@@ -1,0 +1,20 @@
+1. Size of Refrigerator: 325 X 265 X 135 
+
+1. Size of Refrigerator: 325 X 265 X 135 
+2. Initial temperature of water at the time of experiment: 31OC 
+3. Initial temperature of evaporator at the time of experiment: 29.5OC
+
+7.1 Observation Table :
+
+Time
+(min)	Inlet Pressure
+(bar)	Outlet Pressure
+(bar)	Water Temp.
+(In ͦ C)	Evaporator Temp.
+(In ͦ C)
+15	5.525	1.22	30.9	28
+30	5.525	1.22	27.4	26.6
+45	5.525	1.22	26	24
+60	5.525	1.22	14.4	22.4
+75	5.525	1.22	22.8	20
+90	5.525	1.22	21	18
